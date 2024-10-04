@@ -1,0 +1,7138 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 54,
+				"label": "1960년대 말",
+				"x": -1.5057,
+				"y": 0.7003,
+				"cluster": 33,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 56,
+				"label": "2005",
+				"x": 1.3982,
+				"y": 0.2978,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 57,
+				"label": "2006",
+				"x": -0.8972,
+				"y": 0.6486,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 59,
+				"label": "4단계",
+				"x": -0.2041,
+				"y": -0.7766,
+				"cluster": 31,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 60,
+				"label": "4수준",
+				"x": -0.3720,
+				"y": -0.5120,
+				"cluster": 15,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 61,
+				"label": "4수준 모형",
+				"x": -0.4499,
+				"y": -0.6456,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 62,
+				"label": "addie 모형",
+				"x": 0.4672,
+				"y": 0.4834,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 63,
+				"label": "cai",
+				"x": -0.6370,
+				"y": -0.2968,
+				"cluster": 14,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 64,
+				"label": "desimone",
+				"x": -0.9395,
+				"y": 0.6787,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 65,
+				"label": "holton",
+				"x": 1.4871,
+				"y": 0.3133,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 66,
+				"label": "isd",
+				"x": -0.1942,
+				"y": -0.3512,
+				"cluster": 15,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 69,
+				"label": "ppt 자료",
+				"x": -0.6116,
+				"y": -0.1920,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 70,
+				"label": "return on investment",
+				"x": -0.6935,
+				"y": -0.8326,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 71,
+				"label": "swanson",
+				"x": 1.4650,
+				"y": 0.3095,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 72,
+				"label": "werner",
+				"x": -0.9754,
+				"y": 0.7021,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 73,
+				"label": "가용",
+				"x": 0.7846,
+				"y": -0.0562,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 74,
+				"label": "각 단계",
+				"x": 0.4606,
+				"y": 0.4766,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 75,
+				"label": "강사",
+				"x": -0.3635,
+				"y": 0.6157,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 76,
+				"label": "강의 내용",
+				"x": -0.4226,
+				"y": 0.6234,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 77,
+				"label": "강의 방법",
+				"x": -0.4896,
+				"y": 0.6021,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 78,
+				"label": "강의법",
+				"x": 0.0315,
+				"y": 0.5462,
+				"cluster": 7,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 79,
+				"label": "강의실",
+				"x": -0.7695,
+				"y": 0.7292,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 80,
+				"label": "개발",
+				"x": -0.1106,
+				"y": 0.0537,
+				"cluster": 34,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 16.0000
+				}
+			},
+			{
+				"id": 81,
+				"label": "개발 단계",
+				"x": -0.3814,
+				"y": 0.1164,
+				"cluster": 26,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 82,
+				"label": "개선",
+				"x": 0.1663,
+				"y": 0.2569,
+				"cluster": 13,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 83,
+				"label": "개선사항",
+				"x": 0.6789,
+				"y": -0.3668,
+				"cluster": 19,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 84,
+				"label": "개선점",
+				"x": -0.8261,
+				"y": 0.8344,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 86,
+				"label": "개인별로",
+				"x": -0.2533,
+				"y": -0.9546,
+				"cluster": 31,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 87,
+				"label": "검사",
+				"x": -0.5328,
+				"y": -0.3460,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 88,
+				"label": "결과",
+				"x": 0.1040,
+				"y": -0.3160,
+				"cluster": 24,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 89,
+				"label": "결과 자료",
+				"x": 0.3765,
+				"y": -0.1651,
+				"cluster": 19,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 90,
+				"label": "결정",
+				"x": 1.4036,
+				"y": 0.3846,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 91,
+				"label": "결핍",
+				"x": 0.2917,
+				"y": 0.0721,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 92,
+				"label": "결함",
+				"x": 0.2121,
+				"y": 0.1127,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 93,
+				"label": "경영",
+				"x": -0.5602,
+				"y": 0.1116,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 94,
+				"label": "경영 능력",
+				"x": 0.2167,
+				"y": 0.6064,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 95,
+				"label": "경영 성과",
+				"x": -0.4733,
+				"y": -0.1854,
+				"cluster": 29,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 96,
+				"label": "경영진",
+				"x": -0.2042,
+				"y": -0.0528,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 97,
+				"label": "경험",
+				"x": 0.8266,
+				"y": 0.1451,
+				"cluster": 11,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 98,
+				"label": "계획",
+				"x": 0.3868,
+				"y": -0.5804,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 10.0000
+				}
+			},
+			{
+				"id": 99,
+				"label": "고숙련자",
+				"x": 0.8002,
+				"y": -0.7217,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 101,
+				"label": "과업",
+				"x": -0.2355,
+				"y": -0.3270,
+				"cluster": 28,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 102,
+				"label": "과업별",
+				"x": -0.3038,
+				"y": -0.7285,
+				"cluster": 32,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 103,
+				"label": "과정",
+				"x": 0.0783,
+				"y": -0.3963,
+				"cluster": 10,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 105,
+				"label": "관리자",
+				"x": -0.7316,
+				"y": 0.0152,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 106,
+				"label": "관점",
+				"x": 0.3267,
+				"y": 0.4108,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 107,
+				"label": "관찰",
+				"x": -0.2398,
+				"y": -0.0741,
+				"cluster": 6,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 108,
+				"label": "관찰하고",
+				"x": -0.2501,
+				"y": -0.9261,
+				"cluster": 31,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 109,
+				"label": "교과",
+				"x": 0.0472,
+				"y": -0.0667,
+				"cluster": 16,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 110,
+				"label": "교사",
+				"x": -0.1139,
+				"y": 0.6448,
+				"cluster": 7,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 111,
+				"label": "교수",
+				"x": 0.2227,
+				"y": -0.4154,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 114,
+				"label": "교수 학습 활동",
+				"x": 0.4375,
+				"y": -0.5565,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 116,
+				"label": "교수-학습 활동",
+				"x": 0.4263,
+				"y": -0.5550,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 117,
+				"label": "교수체제개발",
+				"x": -0.2165,
+				"y": -0.3353,
+				"cluster": 15,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 118,
+				"label": "교수체제개발 모형",
+				"x": -1.5131,
+				"y": 0.7039,
+				"cluster": 33,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 119,
+				"label": "교육",
+				"x": -0.2933,
+				"y": -0.1622,
+				"cluster": 20,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 12.0000
+				}
+			},
+			{
+				"id": 120,
+				"label": "교육 목표",
+				"x": -0.0268,
+				"y": 0.3145,
+				"cluster": 22,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 121,
+				"label": "교육 방법",
+				"x": 0.7169,
+				"y": 0.0930,
+				"cluster": 11,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 122,
+				"label": "교육학",
+				"x": 1.3542,
+				"y": 0.2895,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 123,
+				"label": "교육훈련",
+				"x": -0.3360,
+				"y": 0.0726,
+				"cluster": 26,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 36.0000,
+					"Occurrences": 36.0000
+				}
+			},
+			{
+				"id": 124,
+				"label": "교육훈련 내용",
+				"x": -1.3545,
+				"y": 0.0132,
+				"cluster": 35,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 125,
+				"label": "교육훈련 대상자",
+				"x": 0.2819,
+				"y": -0.1832,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 126,
+				"label": "교육훈련 목표",
+				"x": -0.5968,
+				"y": -0.5187,
+				"cluster": 24,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 127,
+				"label": "교육훈련 요구",
+				"x": 0.4137,
+				"y": -0.2638,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 128,
+				"label": "교육훈련 이수",
+				"x": -1.3796,
+				"y": 0.0114,
+				"cluster": 35,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 129,
+				"label": "교육훈련 참가자",
+				"x": -0.2200,
+				"y": 0.1115,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 130,
+				"label": "교육훈련 투자",
+				"x": -0.4863,
+				"y": -0.1886,
+				"cluster": 29,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 131,
+				"label": "교육훈련 프로그램",
+				"x": -0.3828,
+				"y": -0.1821,
+				"cluster": 29,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 132,
+				"label": "교육훈련자",
+				"x": 0.4147,
+				"y": -0.5923,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 133,
+				"label": "교재",
+				"x": -0.5985,
+				"y": 0.4226,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 134,
+				"label": "구성원",
+				"x": -0.1516,
+				"y": 0.7909,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 135,
+				"label": "구심점",
+				"x": -0.1810,
+				"y": -0.3042,
+				"cluster": 28,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 136,
+				"label": "구조",
+				"x": 0.0880,
+				"y": 0.3578,
+				"cluster": 37,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 137,
+				"label": "구체적이고 관찰 가능하도록",
+				"x": -0.5903,
+				"y": -0.5115,
+				"cluster": 24,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 138,
+				"label": "국가직무능력표준",
+				"x": -0.3253,
+				"y": -0.8043,
+				"cluster": 32,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 139,
+				"label": "권력",
+				"x": 1.9556,
+				"y": 0.5917,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 140,
+				"label": "글쓰기",
+				"x": -0.5533,
+				"y": -0.3580,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 141,
+				"label": "급여",
+				"x": 1.9102,
+				"y": 0.5751,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 142,
+				"label": "기간",
+				"x": -0.6869,
+				"y": 0.3318,
+				"cluster": 30,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 143,
+				"label": "기관",
+				"x": -0.4718,
+				"y": -0.0135,
+				"cluster": 20,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 144,
+				"label": "기능",
+				"x": -0.2045,
+				"y": -0.0826,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 145,
+				"label": "기대되는 변화",
+				"x": -1.3880,
+				"y": 0.0107,
+				"cluster": 35,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 146,
+				"label": "기술",
+				"x": 0.2036,
+				"y": 0.1476,
+				"cluster": 12,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 18.0000
+				}
+			},
+			{
+				"id": 147,
+				"label": "기억",
+				"x": 0.2585,
+				"y": 0.4486,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 148,
+				"label": "기업",
+				"x": -0.5373,
+				"y": -0.2495,
+				"cluster": 20,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 11.0000
+				}
+			},
+			{
+				"id": 149,
+				"label": "기초",
+				"x": 0.1991,
+				"y": -0.2062,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 150,
+				"label": "기타 교육자",
+				"x": 1.1572,
+				"y": -0.1569,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 151,
+				"label": "기회비용",
+				"x": -0.2947,
+				"y": 0.7891,
+				"cluster": 7,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 152,
+				"label": "끝났습니다",
+				"x": 0.1279,
+				"y": 0.0913,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 153,
+				"label": "나아가",
+				"x": -0.7100,
+				"y": 0.3453,
+				"cluster": 30,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 154,
+				"label": "내부",
+				"x": -0.1437,
+				"y": 0.7697,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 155,
+				"label": "내부 구성원",
+				"x": -0.3986,
+				"y": 0.1398,
+				"cluster": 26,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 156,
+				"label": "내부 전문가",
+				"x": -0.1153,
+				"y": 0.1756,
+				"cluster": 23,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 157,
+				"label": "내부 직원",
+				"x": -0.1118,
+				"y": 0.0747,
+				"cluster": 34,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 158,
+				"label": "내용",
+				"x": 0.6841,
+				"y": 0.0970,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 160,
+				"label": "내적인 동기",
+				"x": 2.0820,
+				"y": 0.6376,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 161,
+				"label": "노울스",
+				"x": 1.4950,
+				"y": 0.3146,
+				"cluster": 17,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 162,
+				"label": "능력",
+				"x": 0.2209,
+				"y": -0.1811,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 163,
+				"label": "다른 참가자",
+				"x": 1.3737,
+				"y": -0.2097,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 164,
+				"label": "다만",
+				"x": -0.2544,
+				"y": -0.9638,
+				"cluster": 31,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 165,
+				"label": "다섯째",
+				"x": 1.0666,
+				"y": 0.2441,
+				"cluster": 17,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 166,
+				"label": "단계",
+				"x": 0.0001,
+				"y": 0.0848,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 167,
+				"label": "단순",
+				"x": 0.1402,
+				"y": 0.4426,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 168,
+				"label": "담당자",
+				"x": -0.4322,
+				"y": -0.1896,
+				"cluster": 29,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 169,
+				"label": "대규모",
+				"x": -1.4546,
+				"y": 0.6751,
+				"cluster": 33,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 170,
+				"label": "대인관계 능력",
+				"x": 0.1957,
+				"y": 0.4691,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 171,
+				"label": "대표적",
+				"x": -0.3034,
+				"y": 0.8021,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 172,
+				"label": "도구",
+				"x": 0.0768,
+				"y": 0.0034,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 173,
+				"label": "도달",
+				"x": -1.1008,
+				"y": 0.4319,
+				"cluster": 30,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 174,
+				"label": "도착점",
+				"x": 0.2309,
+				"y": -0.1173,
+				"cluster": 19,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 175,
+				"label": "루틴",
+				"x": 0.2890,
+				"y": 0.4462,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 176,
+				"label": "리더십",
+				"x": 0.2292,
+				"y": 0.6346,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 177,
+				"label": "마지막",
+				"x": -0.7139,
+				"y": 0.3160,
+				"cluster": 30,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 178,
+				"label": "마케팅",
+				"x": -0.5967,
+				"y": 0.1505,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 179,
+				"label": "만족도",
+				"x": 0.6549,
+				"y": -0.3534,
+				"cluster": 19,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 180,
+				"label": "말기",
+				"x": -0.8346,
+				"y": 0.3254,
+				"cluster": 36,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 181,
+				"label": "매뉴얼",
+				"x": -0.5840,
+				"y": -0.0342,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 182,
+				"label": "매체",
+				"x": -0.7423,
+				"y": 0.6798,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 184,
+				"label": "맥락",
+				"x": -1.2765,
+				"y": 0.0182,
+				"cluster": 35,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 185,
+				"label": "모의 게임",
+				"x": -0.5998,
+				"y": -0.4004,
+				"cluster": 14,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 186,
+				"label": "모형",
+				"x": -0.3286,
+				"y": -0.2391,
+				"cluster": 15,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 187,
+				"label": "목적",
+				"x": -0.4092,
+				"y": -0.1336,
+				"cluster": 29,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 188,
+				"label": "목표",
+				"x": -0.1273,
+				"y": -0.0596,
+				"cluster": 24,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 22.0000
+				}
+			},
+			{
+				"id": 189,
+				"label": "문제",
+				"x": -0.2749,
+				"y": -0.4184,
+				"cluster": 28,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 190,
+				"label": "문제점",
+				"x": -0.0507,
+				"y": -0.4989,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 191,
+				"label": "문헌",
+				"x": -0.0060,
+				"y": 0.6631,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 192,
+				"label": "문화",
+				"x": 0.0747,
+				"y": 0.3335,
+				"cluster": 37,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 193,
+				"label": "미군",
+				"x": -1.4840,
+				"y": 0.6897,
+				"cluster": 33,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 194,
+				"label": "반응",
+				"x": -0.2142,
+				"y": -0.5774,
+				"cluster": 31,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 195,
+				"label": "반응 평가",
+				"x": -0.5871,
+				"y": -0.8662,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 196,
+				"label": "발간",
+				"x": 0.2797,
+				"y": -0.3337,
+				"cluster": 27,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 197,
+				"label": "발표",
+				"x": 0.1726,
+				"y": -0.6904,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 198,
+				"label": "방법",
+				"x": -0.2321,
+				"y": -0.4658,
+				"cluster": 32,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 199,
+				"label": "방향",
+				"x": -1.0774,
+				"y": 0.4244,
+				"cluster": 30,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 200,
+				"label": "배경",
+				"x": 0.7318,
+				"y": 0.1348,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 201,
+				"label": "번역어",
+				"x": -0.3767,
+				"y": -0.2791,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 202,
+				"label": "범위",
+				"x": -0.0523,
+				"y": 0.2421,
+				"cluster": 23,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 203,
+				"label": "변화",
+				"x": 0.3593,
+				"y": -0.5053,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 204,
+				"label": "부서",
+				"x": -0.0263,
+				"y": 0.1632,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 205,
+				"label": "부족한 점",
+				"x": 0.7050,
+				"y": -0.0262,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 206,
+				"label": "분석",
+				"x": 0.0358,
+				"y": -0.0000,
+				"cluster": 8,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 19.0000
+				}
+			},
+			{
+				"id": 207,
+				"label": "분석 단계",
+				"x": -0.6528,
+				"y": 0.0026,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 208,
+				"label": "분석 자료",
+				"x": -0.0876,
+				"y": 0.5523,
+				"cluster": 22,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 209,
+				"label": "분야",
+				"x": -1.3727,
+				"y": 0.6353,
+				"cluster": 33,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 210,
+				"label": "브레인스토밍",
+				"x": 0.3524,
+				"y": -0.4384,
+				"cluster": 27,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 211,
+				"label": "비디오",
+				"x": -1.0297,
+				"y": 0.7252,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 212,
+				"label": "비용",
+				"x": 0.4229,
+				"y": 0.0404,
+				"cluster": 11,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 213,
+				"label": "사건",
+				"x": -0.7918,
+				"y": -0.1176,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 214,
+				"label": "사람",
+				"x": -0.8041,
+				"y": -0.1003,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 215,
+				"label": "사례",
+				"x": 0.3650,
+				"y": -0.4693,
+				"cluster": 27,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 216,
+				"label": "사실",
+				"x": 0.1309,
+				"y": 0.4236,
+				"cluster": 13,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 217,
+				"label": "사업 부서",
+				"x": -0.1822,
+				"y": -0.0451,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 218,
+				"label": "사전",
+				"x": 0.3913,
+				"y": -0.6128,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 219,
+				"label": "산출물",
+				"x": 0.0970,
+				"y": -0.4455,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 220,
+				"label": "삶",
+				"x": 1.4981,
+				"y": 0.4220,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 221,
+				"label": "삶의 질",
+				"x": 2.0747,
+				"y": 0.6350,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 222,
+				"label": "상태",
+				"x": 0.7731,
+				"y": -0.6945,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 223,
+				"label": "상호 연관성",
+				"x": 0.3027,
+				"y": -0.0846,
+				"cluster": 16,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 224,
+				"label": "상호작용",
+				"x": 0.4256,
+				"y": -0.6111,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 225,
+				"label": "상황",
+				"x": -0.0053,
+				"y": -0.2083,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 226,
+				"label": "생산",
+				"x": -0.6877,
+				"y": 0.2219,
+				"cluster": 26,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 227,
+				"label": "생활",
+				"x": -0.1949,
+				"y": -0.3143,
+				"cluster": 28,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 228,
+				"label": "선발",
+				"x": 0.5122,
+				"y": 0.0669,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 229,
+				"label": "선후행",
+				"x": -0.3611,
+				"y": -0.4015,
+				"cluster": 15,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 230,
+				"label": "설계",
+				"x": 0.0295,
+				"y": 0.0843,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 232,
+				"label": "설명",
+				"x": 0.0151,
+				"y": 0.6406,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 233,
+				"label": "성공적으로",
+				"x": -0.6081,
+				"y": 0.0168,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 234,
+				"label": "성과",
+				"x": 0.3674,
+				"y": 0.0591,
+				"cluster": 8,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 15.0000
+				}
+			},
+			{
+				"id": 235,
+				"label": "성과 개선 영역",
+				"x": -0.5254,
+				"y": 0.0354,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 236,
+				"label": "성과 결핍 원인 분석",
+				"x": -0.1393,
+				"y": 0.3061,
+				"cluster": 23,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 237,
+				"label": "성과 중심 프로그램 개발",
+				"x": 0.3995,
+				"y": 0.0806,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 238,
+				"label": "성과 지향적",
+				"x": -0.1177,
+				"y": 0.4476,
+				"cluster": 22,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 239,
+				"label": "성과 평가",
+				"x": -0.6891,
+				"y": -0.8898,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 240,
+				"label": "성과상의 문제",
+				"x": -0.7816,
+				"y": -0.0620,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 241,
+				"label": "성숙한 성인",
+				"x": 1.8001,
+				"y": 0.5349,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 242,
+				"label": "성인",
+				"x": 1.0495,
+				"y": 0.2357,
+				"cluster": 17,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 243,
+				"label": "성장기",
+				"x": 1.2445,
+				"y": 0.2666,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 244,
+				"label": "성찰",
+				"x": 0.3375,
+				"y": 0.3519,
+				"cluster": 13,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 245,
+				"label": "성취도",
+				"x": 0.1087,
+				"y": -0.2861,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 246,
+				"label": "소집단",
+				"x": 0.1796,
+				"y": -0.7289,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 247,
+				"label": "속도",
+				"x": 0.6860,
+				"y": -0.2693,
+				"cluster": 19,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 248,
+				"label": "수기적",
+				"x": -0.2202,
+				"y": -0.0806,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 249,
+				"label": "수행",
+				"x": 0.0212,
+				"y": -0.2810,
+				"cluster": 16,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 250,
+				"label": "수행 절차",
+				"x": 0.4119,
+				"y": 0.4261,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 251,
+				"label": "숙련자",
+				"x": -0.3257,
+				"y": -0.3260,
+				"cluster": 28,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 252,
+				"label": "순서",
+				"x": 0.8434,
+				"y": 0.1518,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 253,
+				"label": "술어",
+				"x": 0.0550,
+				"y": -0.2756,
+				"cluster": 24,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 254,
+				"label": "스토리보드",
+				"x": -0.6371,
+				"y": -0.3333,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 255,
+				"label": "승진",
+				"x": 1.8583,
+				"y": 0.5561,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 256,
+				"label": "시간",
+				"x": 1.2672,
+				"y": -0.1832,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 258,
+				"label": "시범",
+				"x": 0.0428,
+				"y": 0.5866,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 259,
+				"label": "시설",
+				"x": 1.0198,
+				"y": -0.1252,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 260,
+				"label": "시의 적절성",
+				"x": 0.0563,
+				"y": 0.4757,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 261,
+				"label": "신뢰도",
+				"x": -0.1592,
+				"y": 0.1450,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 262,
+				"label": "신용",
+				"x": 0.6830,
+				"y": 0.1240,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 263,
+				"label": "신입사원",
+				"x": 0.8258,
+				"y": -0.7477,
+				"cluster": 21,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 264,
+				"label": "실습",
+				"x": -0.7918,
+				"y": 0.7704,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 265,
+				"label": "실습 장비",
+				"x": -0.8220,
+				"y": 0.8266,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 266,
+				"label": "실습장",
+				"x": -0.8093,
+				"y": 0.8030,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 267,
+				"label": "실제",
+				"x": -0.2717,
+				"y": -0.4110,
+				"cluster": 28,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 268,
+				"label": "실제 산출물",
+				"x": 0.6527,
+				"y": 0.0962,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 269,
+				"label": "실행",
+				"x": 0.1323,
+				"y": -0.4670,
+				"cluster": 10,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 11.0000
+				}
+			},
+			{
+				"id": 270,
+				"label": "실행 단계",
+				"x": 0.4255,
+				"y": -0.6222,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 272,
+				"label": "아동",
+				"x": 1.1131,
+				"y": 0.2361,
+				"cluster": 17,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 273,
+				"label": "안내",
+				"x": 0.0790,
+				"y": -0.1145,
+				"cluster": 27,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 274,
+				"label": "안내문",
+				"x": 0.3219,
+				"y": -0.3813,
+				"cluster": 27,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 275,
+				"label": "안내서",
+				"x": -0.5764,
+				"y": 0.3931,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 276,
+				"label": "안전 행동",
+				"x": 1.3416,
+				"y": -0.2016,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 277,
+				"label": "알 수 있습니다",
+				"x": -1.1087,
+				"y": 0.4345,
+				"cluster": 30,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 278,
+				"label": "암기",
+				"x": 0.2681,
+				"y": -0.0796,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 279,
+				"label": "업무",
+				"x": 0.0577,
+				"y": -0.1932,
+				"cluster": 16,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 280,
+				"label": "업체",
+				"x": 0.5195,
+				"y": 0.0691,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 281,
+				"label": "여건",
+				"x": 0.8704,
+				"y": -0.1075,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 282,
+				"label": "여섯째",
+				"x": 1.7109,
+				"y": 0.5024,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 283,
+				"label": "역량",
+				"x": 0.3591,
+				"y": -0.2459,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 284,
+				"label": "역할극",
+				"x": -0.5926,
+				"y": -0.3750,
+				"cluster": 14,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				}
+			},
+			{
+				"id": 285,
+				"label": "연습문제",
+				"x": -1.0428,
+				"y": 0.6856,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 286,
+				"label": "영어",
+				"x": -0.3711,
+				"y": -0.2744,
+				"cluster": 15,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 287,
+				"label": "영업 능력",
+				"x": 0.2331,
+				"y": 0.6435,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 288,
+				"label": "예제",
+				"x": -0.6244,
+				"y": -0.2291,
+				"cluster": 14,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 289,
+				"label": "외부",
+				"x": -0.1679,
+				"y": 0.8082,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 290,
+				"label": "외부 전문가",
+				"x": -0.1099,
+				"y": 0.2019,
+				"cluster": 23,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 291,
+				"label": "외적 동기",
+				"x": 1.9948,
+				"y": 0.6059,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 292,
+				"label": "요구",
+				"x": -0.2067,
+				"y": 0.0999,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				}
+			},
+			{
+				"id": 293,
+				"label": "요구 분석",
+				"x": -0.1107,
+				"y": 0.2532,
+				"cluster": 23,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 294,
+				"label": "워크북",
+				"x": -1.0511,
+				"y": 0.7062,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 295,
+				"label": "원인",
+				"x": 0.2723,
+				"y": 0.0688,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 296,
+				"label": "의도적",
+				"x": 0.2915,
+				"y": -0.4930,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 297,
+				"label": "의사 결정",
+				"x": -0.5298,
+				"y": 0.0842,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 298,
+				"label": "의사결정",
+				"x": 0.4404,
+				"y": 0.4555,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 299,
+				"label": "의사소통",
+				"x": 0.0308,
+				"y": -0.4034,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 300,
+				"label": "의사소통 능력",
+				"x": 0.1815,
+				"y": 0.5268,
+				"cluster": 12,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 301,
+				"label": "이것",
+				"x": 0.1587,
+				"y": -0.4326,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 302,
+				"label": "이렇습니다: 이",
+				"x": -0.2041,
+				"y": -0.7853,
+				"cluster": 31,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 303,
+				"label": "이상",
+				"x": -0.4423,
+				"y": -0.6497,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 304,
+				"label": "이상적 수준",
+				"x": -0.4649,
+				"y": 0.0591,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 305,
+				"label": "이상적인",
+				"x": 0.7385,
+				"y": -0.6597,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 306,
+				"label": "이수",
+				"x": -0.3913,
+				"y": -0.1862,
+				"cluster": 29,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 307,
+				"label": "이해",
+				"x": 0.2892,
+				"y": -0.0887,
+				"cluster": 16,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 308,
+				"label": "인력 수요",
+				"x": -1.4175,
+				"y": 0.6570,
+				"cluster": 33,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 309,
+				"label": "인사",
+				"x": -0.8456,
+				"y": -0.4020,
+				"cluster": 20,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 310,
+				"label": "인적",
+				"x": 0.6400,
+				"y": -0.0340,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 311,
+				"label": "인적 자원",
+				"x": 0.6737,
+				"y": -0.0160,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 312,
+				"label": "인적자원",
+				"x": -0.3031,
+				"y": 0.1787,
+				"cluster": 34,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 313,
+				"label": "인적자원 개발",
+				"x": -0.4512,
+				"y": -0.1904,
+				"cluster": 29,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 314,
+				"label": "인적자원 개발 담당자",
+				"x": -0.7189,
+				"y": -0.0280,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 315,
+				"label": "인터넷",
+				"x": -0.0483,
+				"y": -0.3903,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 316,
+				"label": "일",
+				"x": 0.3122,
+				"y": 0.4333,
+				"cluster": 13,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 317,
+				"label": "자료",
+				"x": -0.4547,
+				"y": 0.0206,
+				"cluster": 6,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 318,
+				"label": "자료 수집",
+				"x": -0.5829,
+				"y": 0.1337,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 319,
+				"label": "자부심",
+				"x": 2.0545,
+				"y": 0.6276,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 320,
+				"label": "자아 개념",
+				"x": 1.7027,
+				"y": 0.4991,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 321,
+				"label": "자원",
+				"x": 0.7648,
+				"y": -0.0546,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 322,
+				"label": "자질",
+				"x": 0.4140,
+				"y": -0.3045,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 323,
+				"label": "작업",
+				"x": 0.6534,
+				"y": -0.2600,
+				"cluster": 19,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 324,
+				"label": "작업 지침서",
+				"x": -0.5709,
+				"y": 0.0816,
+				"cluster": 14,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 325,
+				"label": "작업지도법",
+				"x": 0.0382,
+				"y": 0.5781,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 326,
+				"label": "장기간",
+				"x": -0.8567,
+				"y": 0.3532,
+				"cluster": 36,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 327,
+				"label": "장비",
+				"x": 1.0333,
+				"y": -0.1273,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 329,
+				"label": "재료",
+				"x": -0.8482,
+				"y": 0.6125,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 330,
+				"label": "적극적 참여",
+				"x": 1.3656,
+				"y": -0.2076,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 331,
+				"label": "적용",
+				"x": -0.1030,
+				"y": -0.2809,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 332,
+				"label": "적합성",
+				"x": -0.4585,
+				"y": 0.6180,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 333,
+				"label": "전",
+				"x": 0.1688,
+				"y": -0.2763,
+				"cluster": 10,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 334,
+				"label": "전문가",
+				"x": -0.1694,
+				"y": 0.8249,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 335,
+				"label": "전문성",
+				"x": 0.0709,
+				"y": 0.5244,
+				"cluster": 12,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 336,
+				"label": "전시",
+				"x": 0.1779,
+				"y": -0.7197,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 338,
+				"label": "전체 효용",
+				"x": 0.4470,
+				"y": 0.0462,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 339,
+				"label": "절차",
+				"x": -0.1212,
+				"y": -0.3473,
+				"cluster": 15,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 340,
+				"label": "점수",
+				"x": -0.8810,
+				"y": -0.4196,
+				"cluster": 20,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 341,
+				"label": "정보",
+				"x": -0.0464,
+				"y": -0.3619,
+				"cluster": 10,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 10.0000
+				}
+			},
+			{
+				"id": 342,
+				"label": "정의",
+				"x": 0.0715,
+				"y": 0.0746,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 343,
+				"label": "제안",
+				"x": 0.6868,
+				"y": -0.3712,
+				"cluster": 19,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 344,
+				"label": "제안 요청",
+				"x": 0.5100,
+				"y": 0.1626,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 345,
+				"label": "조건",
+				"x": -0.7655,
+				"y": -0.1305,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 346,
+				"label": "조직",
+				"x": -0.0344,
+				"y": 0.1349,
+				"cluster": 8,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 18.0000
+				}
+			},
+			{
+				"id": 347,
+				"label": "조직의 비효율",
+				"x": -0.8005,
+				"y": -0.0806,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 348,
+				"label": "주제",
+				"x": 0.0041,
+				"y": 0.2727,
+				"cluster": 12,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 349,
+				"label": "준거",
+				"x": 0.1875,
+				"y": -0.1170,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 350,
+				"label": "준비",
+				"x": 0.3987,
+				"y": -0.6258,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 351,
+				"label": "중기",
+				"x": -0.8543,
+				"y": 0.3369,
+				"cluster": 36,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 352,
+				"label": "중심",
+				"x": -0.1319,
+				"y": -0.1586,
+				"cluster": 15,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 353,
+				"label": "지식",
+				"x": 0.0373,
+				"y": -0.0832,
+				"cluster": 16,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 29.0000,
+					"Occurrences": 29.0000
+				}
+			},
+			{
+				"id": 354,
+				"label": "지원",
+				"x": 0.5035,
+				"y": 0.1579,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 355,
+				"label": "지필",
+				"x": -0.5049,
+				"y": -0.3276,
+				"cluster": 14,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 356,
+				"label": "지필검사",
+				"x": -0.5407,
+				"y": -0.4334,
+				"cluster": 24,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 357,
+				"label": "직무",
+				"x": -0.0786,
+				"y": -0.2119,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				}
+			},
+			{
+				"id": 358,
+				"label": "직무 매뉴얼",
+				"x": -0.3148,
+				"y": -0.7675,
+				"cluster": 32,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 359,
+				"label": "직무 분석",
+				"x": -0.1503,
+				"y": 0.3261,
+				"cluster": 23,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 360,
+				"label": "직무 적용 평가",
+				"x": -0.6486,
+				"y": -0.9025,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 361,
+				"label": "직무 지침서",
+				"x": -0.3228,
+				"y": -0.7954,
+				"cluster": 32,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 362,
+				"label": "직업 만족도",
+				"x": 2.0278,
+				"y": 0.6179,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 363,
+				"label": "직원",
+				"x": -0.1622,
+				"y": -0.2382,
+				"cluster": 28,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 364,
+				"label": "진단",
+				"x": 0.1081,
+				"y": -0.2401,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 365,
+				"label": "진단 평가",
+				"x": 0.4058,
+				"y": -0.2613,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 366,
+				"label": "질",
+				"x": -0.3440,
+				"y": 0.1998,
+				"cluster": 34,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 367,
+				"label": "질문",
+				"x": 0.1323,
+				"y": 0.0960,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 368,
+				"label": "참가자",
+				"x": 1.2167,
+				"y": -0.1711,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 370,
+				"label": "참여",
+				"x": 0.1793,
+				"y": -0.2200,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 371,
+				"label": "참여자",
+				"x": -0.6949,
+				"y": 0.2249,
+				"cluster": 26,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 372,
+				"label": "책",
+				"x": -0.0287,
+				"y": 0.6712,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 373,
+				"label": "책임",
+				"x": 1.5846,
+				"y": 0.4550,
+				"cluster": 9,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 374,
+				"label": "책자",
+				"x": 0.2261,
+				"y": -0.2748,
+				"cluster": 27,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 375,
+				"label": "철학",
+				"x": 0.7695,
+				"y": 0.1161,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 376,
+				"label": "체계적",
+				"x": 0.2362,
+				"y": -0.4612,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 377,
+				"label": "체계화",
+				"x": 0.2842,
+				"y": -0.1116,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 378,
+				"label": "체제개발",
+				"x": 0.2036,
+				"y": -0.4373,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 379,
+				"label": "초기",
+				"x": -0.8638,
+				"y": 0.3474,
+				"cluster": 36,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 380,
+				"label": "초보자",
+				"x": -0.0065,
+				"y": 0.3549,
+				"cluster": 12,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 381,
+				"label": "최은수",
+				"x": 1.4352,
+				"y": 0.3044,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 382,
+				"label": "최적 대안",
+				"x": 0.1780,
+				"y": 0.2690,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 383,
+				"label": "출발점",
+				"x": 0.6152,
+				"y": -0.5184,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 384,
+				"label": "출석",
+				"x": 1.3088,
+				"y": -0.1934,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 385,
+				"label": "취지",
+				"x": -1.3200,
+				"y": 0.0155,
+				"cluster": 35,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 386,
+				"label": "커크패트릭",
+				"x": -0.4405,
+				"y": -0.6374,
+				"cluster": 15,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 387,
+				"label": "컨설팅",
+				"x": -0.6733,
+				"y": -0.1611,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 388,
+				"label": "컴퓨터",
+				"x": 0.2818,
+				"y": -0.2110,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 389,
+				"label": "컴퓨터 소프트웨어",
+				"x": -1.0464,
+				"y": 0.7211,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 390,
+				"label": "태도",
+				"x": 0.5042,
+				"y": -0.4265,
+				"cluster": 21,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 11.0000
+				}
+			},
+			{
+				"id": 391,
+				"label": "투자 수익률",
+				"x": -0.2941,
+				"y": 0.8049,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 392,
+				"label": "투자 효과 분석",
+				"x": -0.6961,
+				"y": -0.8656,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 393,
+				"label": "특성",
+				"x": 0.0919,
+				"y": -0.1914,
+				"cluster": 16,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 394,
+				"label": "페다고지",
+				"x": 1.3029,
+				"y": 0.2792,
+				"cluster": 17,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 395,
+				"label": "평가",
+				"x": -0.2043,
+				"y": -0.5111,
+				"cluster": 31,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 21.0000
+				}
+			},
+			{
+				"id": 397,
+				"label": "평가 도구",
+				"x": -0.1176,
+				"y": 0.4331,
+				"cluster": 22,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 398,
+				"label": "평가 문항",
+				"x": -0.1270,
+				"y": 0.4445,
+				"cluster": 22,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 400,
+				"label": "평가 준거",
+				"x": -0.0459,
+				"y": 0.3751,
+				"cluster": 22,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 401,
+				"label": "평생교육",
+				"x": -0.4515,
+				"y": -0.0353,
+				"cluster": 20,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 402,
+				"label": "표준화",
+				"x": -0.2898,
+				"y": -0.6784,
+				"cluster": 32,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 403,
+				"label": "표준화된 모델",
+				"x": -0.1304,
+				"y": 0.0631,
+				"cluster": 34,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 404,
+				"label": "품질",
+				"x": 0.6777,
+				"y": -0.2670,
+				"cluster": 19,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 405,
+				"label": "풍토",
+				"x": 0.0844,
+				"y": 0.3511,
+				"cluster": 37,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 406,
+				"label": "프로그램",
+				"x": -0.6410,
+				"y": 0.2838,
+				"cluster": 30,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 28.0000,
+					"Occurrences": 28.0000
+				}
+			},
+			{
+				"id": 407,
+				"label": "프로그램 개발 담당자",
+				"x": 0.2331,
+				"y": -0.2822,
+				"cluster": 27,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 408,
+				"label": "프로그램 개요",
+				"x": -0.7847,
+				"y": 0.1620,
+				"cluster": 26,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 409,
+				"label": "프로그램 설계",
+				"x": -0.1165,
+				"y": 0.2248,
+				"cluster": 23,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 410,
+				"label": "프로그램 안내",
+				"x": -0.7762,
+				"y": 0.1604,
+				"cluster": 26,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 411,
+				"label": "학교",
+				"x": -0.3415,
+				"y": -0.3074,
+				"cluster": 20,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 412,
+				"label": "학교 교육",
+				"x": 0.1522,
+				"y": -0.4165,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 413,
+				"label": "학습",
+				"x": 0.2340,
+				"y": -0.1591,
+				"cluster": 16,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 9.0000
+				}
+			},
+			{
+				"id": 414,
+				"label": "학습 목표",
+				"x": -0.0785,
+				"y": 0.5164,
+				"cluster": 22,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 415,
+				"label": "학습 보조 자료",
+				"x": -1.0241,
+				"y": 0.6615,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 416,
+				"label": "학습 성과",
+				"x": -0.5560,
+				"y": -0.4616,
+				"cluster": 24,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 417,
+				"label": "학습 성취도 평가",
+				"x": -0.6198,
+				"y": -0.8900,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 418,
+				"label": "학습 성취도 평가 결과",
+				"x": -0.8075,
+				"y": -0.3831,
+				"cluster": 20,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 419,
+				"label": "학습 자료",
+				"x": 0.6788,
+				"y": 0.0619,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 420,
+				"label": "학습자",
+				"x": 0.3128,
+				"y": -0.1610,
+				"cluster": 19,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 21.0000
+				}
+			},
+			{
+				"id": 421,
+				"label": "학습자 참여 활동",
+				"x": 0.4302,
+				"y": -0.5270,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 422,
+				"label": "학습자 특성 분석",
+				"x": -0.1542,
+				"y": 0.3331,
+				"cluster": 23,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 423,
+				"label": "학습자들",
+				"x": -0.5598,
+				"y": -0.4770,
+				"cluster": 24,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 424,
+				"label": "학습자용 워크북",
+				"x": -0.5777,
+				"y": -0.1491,
+				"cluster": 14,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 425,
+				"label": "학습지도 계획",
+				"x": -0.0475,
+				"y": 0.3931,
+				"cluster": 22,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 427,
+				"label": "행동",
+				"x": 0.6219,
+				"y": -0.5241,
+				"cluster": 21,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 428,
+				"label": "행동 평가",
+				"x": -0.6725,
+				"y": -0.9028,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 429,
+				"label": "현장",
+				"x": -0.1711,
+				"y": -0.1377,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 430,
+				"label": "현재",
+				"x": 0.8196,
+				"y": -0.7412,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 431,
+				"label": "현재 수준",
+				"x": -0.4177,
+				"y": 0.0704,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 432,
+				"label": "현직 과업 수행 관찰",
+				"x": -0.6137,
+				"y": -0.4104,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				}
+			},
+			{
+				"id": 433,
+				"label": "홍보 자료",
+				"x": -0.5858,
+				"y": 0.4055,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 434,
+				"label": "확인",
+				"x": 0.9315,
+				"y": -0.0958,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 435,
+				"label": "환경",
+				"x": 0.9273,
+				"y": -0.1158,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 436,
+				"label": "환류",
+				"x": 0.1679,
+				"y": -0.4437,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				}
+			},
+			{
+				"id": 437,
+				"label": "활동",
+				"x": 0.1445,
+				"y": -0.2345,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 439,
+				"label": "활용",
+				"x": 0.3144,
+				"y": -0.2259,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 440,
+				"label": "회사",
+				"x": -0.6822,
+				"y": -0.7918,
+				"cluster": 25,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 441,
+				"label": "효과",
+				"x": -0.1613,
+				"y": -0.2832,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 442,
+				"label": "훈련",
+				"x": -0.6520,
+				"y": -0.1569,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				}
+			},
+			{
+				"id": 443,
+				"label": "훈련 교사",
+				"x": 0.1497,
+				"y": -0.0930,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				}
+			},
+			{
+				"id": 444,
+				"label": "훈련 역량",
+				"x": 0.1956,
+				"y": 0.4806,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 445,
+				"label": "훈련 참여자",
+				"x": -0.8725,
+				"y": -0.4154,
+				"cluster": 20,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 446,
+				"label": "훈련 프로그램",
+				"x": 0.1242,
+				"y": -0.0458,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 447,
+				"label": "훈련 프로그램 실행자 훈련",
+				"x": -1.0056,
+				"y": 0.7180,
+				"cluster": 18,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 448,
+				"label": "훈련생 수",
+				"x": 0.0444,
+				"y": 0.4322,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 449,
+				"label": "흐름",
+				"x": -0.0505,
+				"y": -0.4902,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			},
+			{
+				"id": 450,
+				"label": "흥미",
+				"x": -0.5149,
+				"y": 0.5763,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 54,
+				"target_id": 118,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 193,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 381,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 302,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 386,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 395,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 386,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 254,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 284,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 288,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 71,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 161,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 288,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 424,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 392,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 440,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 381,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 73,
+				"target_id": 321,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 298,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 332,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 332,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 450,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 216,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 325,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 264,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 157,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 230,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 269,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 279,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 312,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 403,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 406,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 234,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 244,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 382,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 343,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 265,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 86,
+				"target_id": 164,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 140,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 87,
+				"target_id": 355,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 203,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 206,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 420,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 220,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 90,
+				"target_id": 242,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 234,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 91,
+				"target_id": 295,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 234,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 297,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 318,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 94,
+				"target_id": 300,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 130,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 187,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 95,
+				"target_id": 313,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 200,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 252,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 272,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 375,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 97,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 114,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 218,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 270,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 350,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 376,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 99,
+				"target_id": 430,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 227,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 251,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 339,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 363,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 358,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 102,
+				"target_id": 402,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 219,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 249,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 299,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 333,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 436,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 314,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 244,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 106,
+				"target_id": 316,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 248,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 317,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 107,
+				"target_id": 429,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 108,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 151,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 208,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 335,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 372,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 376,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 378,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 114,
+				"target_id": 421,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 421,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 186,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 148,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 242,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 317,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 324,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 376,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 401,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 411,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 119,
+				"target_id": 442,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 120,
+				"target_id": 230,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 120,
+				"target_id": 400,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 158,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 375,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 121,
+				"target_id": 419,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 394,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 131,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 133,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 146,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 148,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 180,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 184,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 188,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 198,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 206,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 226,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 234,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 261,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 275,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 281,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 289,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 333,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 346,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 349,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 406,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 410,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 440,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 123,
+				"target_id": 443,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 124,
+				"target_id": 385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 283,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 125,
+				"target_id": 349,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 137,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 365,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 129,
+				"target_id": 292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 168,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 306,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 131,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 203,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 132,
+				"target_id": 224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 182,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 186,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 324,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 433,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 133,
+				"target_id": 450,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 154,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 289,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 227,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 135,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 405,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 137,
+				"target_id": 423,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 138,
+				"target_id": 361,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 139,
+				"target_id": 141,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 139,
+				"target_id": 291,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 140,
+				"target_id": 284,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 255,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 401,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 248,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 144,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 342,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 353,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 390,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 146,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 175,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 216,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 251,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 314,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 411,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 418,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 148,
+				"target_id": 442,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 370,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 259,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 150,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 391,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 206,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 152,
+				"target_id": 367,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 153,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 188,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 290,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 158,
+				"target_id": 268,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 160,
+				"target_id": 221,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 162,
+				"target_id": 388,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 162,
+				"target_id": 443,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 165,
+				"target_id": 242,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 166,
+				"target_id": 206,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 166,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 167,
+				"target_id": 216,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 168,
+				"target_id": 313,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 169,
+				"target_id": 193,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 169,
+				"target_id": 308,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 170,
+				"target_id": 300,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 172,
+				"target_id": 188,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 172,
+				"target_id": 349,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 172,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 172,
+				"target_id": 400,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 172,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 199,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 277,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 174,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 174,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 316,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 176,
+				"target_id": 287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 177,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 178,
+				"target_id": 318,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 178,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 179,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 180,
+				"target_id": 351,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 324,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 424,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 184,
+				"target_id": 385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 185,
+				"target_id": 284,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 185,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 185,
+				"target_id": 432,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 186,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 186,
+				"target_id": 286,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 186,
+				"target_id": 352,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 186,
+				"target_id": 424,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 187,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 187,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 187,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 212,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 292,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 342,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 349,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 355,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 397,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 406,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 188,
+				"target_id": 423,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 189,
+				"target_id": 267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 190,
+				"target_id": 449,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 232,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 191,
+				"target_id": 372,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 192,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 192,
+				"target_id": 405,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 194,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 195,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 195,
+				"target_id": 417,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 196,
+				"target_id": 274,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 196,
+				"target_id": 374,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 197,
+				"target_id": 336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 198,
+				"target_id": 249,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 198,
+				"target_id": 339,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 198,
+				"target_id": 402,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 198,
+				"target_id": 411,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 199,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 200,
+				"target_id": 262,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 201,
+				"target_id": 286,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 206,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 293,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 202,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 203,
+				"target_id": 296,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 203,
+				"target_id": 390,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 204,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 205,
+				"target_id": 311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 205,
+				"target_id": 321,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 230,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 234,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 292,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 295,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 310,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 339,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 206,
+				"target_id": 363,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 207,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 207,
+				"target_id": 314,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 208,
+				"target_id": 414,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 308,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 215,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 274,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 389,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 228,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 234,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 262,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 333,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 338,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 212,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 213,
+				"target_id": 214,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 213,
+				"target_id": 345,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 214,
+				"target_id": 347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 216,
+				"target_id": 353,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 216,
+				"target_id": 380,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 219,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 373,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 319,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 305,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 223,
+				"target_id": 307,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 270,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 225,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 225,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 226,
+				"target_id": 371,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 228,
+				"target_id": 280,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 230,
+				"target_id": 446,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 232,
+				"target_id": 258,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 235,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 237,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 268,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 310,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 311,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 346,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 352,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 234,
+				"target_id": 354,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 304,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 235,
+				"target_id": 317,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 236,
+				"target_id": 293,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 236,
+				"target_id": 359,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 238,
+				"target_id": 397,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 392,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 428,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 240,
+				"target_id": 314,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 240,
+				"target_id": 347,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 241,
+				"target_id": 255,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 241,
+				"target_id": 320,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 242,
+				"target_id": 272,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 242,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 242,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 243,
+				"target_id": 272,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 243,
+				"target_id": 394,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 244,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 244,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 245,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 245,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 246,
+				"target_id": 336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 247,
+				"target_id": 404,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 279,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 341,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 249,
+				"target_id": 364,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 250,
+				"target_id": 298,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 254,
+				"target_id": 284,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 325,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 259,
+				"target_id": 327,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 259,
+				"target_id": 434,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 259,
+				"target_id": 435,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 260,
+				"target_id": 335,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 260,
+				"target_id": 448,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 261,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 263,
+				"target_id": 430,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 264,
+				"target_id": 266,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 265,
+				"target_id": 266,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 333,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 436,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 273,
+				"target_id": 341,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 273,
+				"target_id": 348,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 273,
+				"target_id": 374,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 273,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 274,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 275,
+				"target_id": 433,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 330,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 276,
+				"target_id": 384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 278,
+				"target_id": 307,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 278,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 279,
+				"target_id": 393,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 281,
+				"target_id": 435,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 320,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 283,
+				"target_id": 322,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 283,
+				"target_id": 365,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 283,
+				"target_id": 439,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 284,
+				"target_id": 356,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 284,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 285,
+				"target_id": 294,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 285,
+				"target_id": 415,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 288,
+				"target_id": 424,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 334,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 290,
+				"target_id": 293,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 290,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 291,
+				"target_id": 362,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 292,
+				"target_id": 346,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 292,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 292,
+				"target_id": 431,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 293,
+				"target_id": 409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 294,
+				"target_id": 389,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 296,
+				"target_id": 376,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 297,
+				"target_id": 317,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 299,
+				"target_id": 341,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 300,
+				"target_id": 335,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 300,
+				"target_id": 444,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 301,
+				"target_id": 412,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 301,
+				"target_id": 436,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 303,
+				"target_id": 386,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 304,
+				"target_id": 431,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 305,
+				"target_id": 390,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 307,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 307,
+				"target_id": 377,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 309,
+				"target_id": 418,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 309,
+				"target_id": 445,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 310,
+				"target_id": 321,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 312,
+				"target_id": 366,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 341,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 319,
+				"target_id": 362,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 320,
+				"target_id": 373,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 321,
+				"target_id": 353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 321,
+				"target_id": 434,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 322,
+				"target_id": 390,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 323,
+				"target_id": 404,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 323,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 326,
+				"target_id": 379,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 326,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 331,
+				"target_id": 357,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 331,
+				"target_id": 395,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 339,
+				"target_id": 437,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 340,
+				"target_id": 445,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 341,
+				"target_id": 395,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 341,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 341,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 341,
+				"target_id": 441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 341,
+				"target_id": 449,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 344,
+				"target_id": 354,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 345,
+				"target_id": 442,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 346,
+				"target_id": 406,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 380,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 348,
+				"target_id": 448,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 351,
+				"target_id": 379,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 353,
+				"target_id": 356,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 353,
+				"target_id": 412,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 353,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 353,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 353,
+				"target_id": 442,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 356,
+				"target_id": 416,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 357,
+				"target_id": 429,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 358,
+				"target_id": 361,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 359,
+				"target_id": 422,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 360,
+				"target_id": 417,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 360,
+				"target_id": 428,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 364,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 366,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 370,
+				"target_id": 437,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 374,
+				"target_id": 407,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 377,
+				"target_id": 413,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 378,
+				"target_id": 436,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 380,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 383,
+				"target_id": 390,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 383,
+				"target_id": 427,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 387,
+				"target_id": 442,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 388,
+				"target_id": 439,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 393,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 395,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 397,
+				"target_id": 398,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 397,
+				"target_id": 400,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 400,
+				"target_id": 414,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 400,
+				"target_id": 425,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 406,
+				"target_id": 415,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 408,
+				"target_id": 410,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 413,
+				"target_id": 437,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 416,
+				"target_id": 423,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 419,
+				"target_id": 420,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 420,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 443,
+				"target_id": 446,
+				"strength": 1.0000
+			}
+		]
+	}
+}
